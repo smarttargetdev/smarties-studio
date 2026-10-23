@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio Web",
+  "description": "Navegador Chromium dedicado para executar o Google AI Studio com segurança e alta performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

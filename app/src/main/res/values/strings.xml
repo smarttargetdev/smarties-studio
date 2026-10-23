@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AI Studio Web</string>
+    <string name="url_home">https://aistudio.google.com</string>
+    <string name="url_prompts_new">https://aistudio.google.com/prompts/new_chat</string>
+    <string name="url_my_prompts">https://aistudio.google.com/library</string>
+    <string name="url_tuned_models">https://aistudio.google.com/tuned_models</string>
+    <string name="url_api_keys">https://aistudio.google.com/apikey</string>
+    <string name="url_docs">https://ai.google.dev/docs</string>
+    
+    <string name="action_back">Voltar</string>
+    <string name="action_forward">Avançar</string>
+    <string name="action_reload">Recarregar</string>
+    <string name="action_home">Página Inicial</string>
+    <string name="action_desktop_mode">Modo Desktop</string>
+    <string name="action_mobile_mode">Modo Mobile</string>
+    <string name="action_clear_cache">Limpar Cache</string>
+    <string name="action_security_info">Segurança da Conexão</string>
+    <string name="action_quick_nav">Acesso Rápido</string>
+    <string name="action_settings">Configurações</string>
+    
+    <string name="security_secure_title">Conexão Segura (Chromium TLS)</string>
+    <string name="security_secure_desc">Proteção HTTPS ativa com verificação de certificados Google e Chromium Safe Browsing.</string>
+    <string name="security_warning_title">Alerta de Segurança</string>
+    <string name="security_blocked_domain">Navegação restrita aos domínios seguros autorizados do Google AI Studio.</string>
+    <string name="error_offline_title">Sem conexão com a Internet</string>
+    <string name="error_offline_desc">Verifique sua conexão Wi-Fi ou dados móveis para acessar o Google AI Studio.</string>
+    <string name="action_retry">Tentar Novamente</string>
+</resources>
