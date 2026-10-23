@@ -9,15 +9,15 @@ plugins {
 }
 
 android {
-  namespace = "com.example"
+  namespace = "br.com.smarttarget.ai.studio"
   compileSdk { version = release(36) { minorApiLevel = 1 } }
 
   defaultConfig {
-    applicationId = "com.aistudio.chromiumwebapp.krvwpx"
+    applicationId = "br.com.smarttarget.ai.studio"
     minSdk = 24
     targetSdk = 36
-    versionCode = 3
-    versionName = "1.0.3"
+    versionCode = 5
+    versionName = "1.0.5"
 
     testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
   }
